@@ -1,4 +1,4 @@
-# Atari Pong in Python
+# Quicksort in Python
 ### Implemented by Raunak Bhojwani
 #### November 2014
 
